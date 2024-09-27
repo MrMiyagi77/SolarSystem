@@ -6,3 +6,4 @@ Jupiter
 Mars
 Saturn
 Mercury
+Pluto

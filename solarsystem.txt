@@ -5,3 +5,4 @@ Earth
 Jupiter
 Mars
 Saturn
+Mercury
